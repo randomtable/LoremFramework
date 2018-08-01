@@ -1,2 +1,2 @@
 # LoremFramework
-The Universal Framework
+Unify The Web!
